@@ -1,0 +1,27 @@
+.cartMenu {
+  position: absolute;
+  background: rgb(255, 255, 255);
+  width: 400px;
+  padding: 10px 20px;
+  z-index: 2;
+  border-radius: 15px;
+  border: 1px solid black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.totalPrice {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  font-family: "Courier New", Courier, monospace;
+}
+.cartMenuAr {
+  padding: 20px 0;
+  border-top: 1px solid rgb(99, 99, 99);
+  font-family: "Courier New", Courier, monospace;
+}
+.img_ball {
+  left: 30%;
+  position: relative;
+  justify-content: space-between;
+}

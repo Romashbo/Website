@@ -1,0 +1,29 @@
+.CardBlock {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.cardBlockIcon {
+  align-items: center;
+
+  cursor: pointer;
+  position: relative;
+}
+.cardBlock_price {
+  position: relative;
+  font-size: 1rem;
+  font-family: "Courier New", Courier, monospace;
+}
+.card_title {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.cards {
+  margin-top: 0.3125rem;
+}
+.cardBlockIconFixed {
+  position: fixed;
+
+  top: 10%;
+}
